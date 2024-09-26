@@ -1,0 +1,4 @@
+Nombre: Sofi 
+DNI: A00000 
+Direccion: Calle Ejeplo 1 
+Fecha de nacimiento: 01/01/0001 0:00:00

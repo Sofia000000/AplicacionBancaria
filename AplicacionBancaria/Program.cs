@@ -1,2 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using AplicacionBancaria.App.presentacion;
+
+
+Iniciar iniciar = new Iniciar();
+
+iniciar.init();

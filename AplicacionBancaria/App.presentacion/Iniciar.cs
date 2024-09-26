@@ -14,7 +14,7 @@ namespace AplicacionBancaria.App.presentacion
         public void init() { 
             
             CuentaAhorro cuentaAhorro = new CuentaAhorro("Sofi", "A00000", "Calle Ejeplo 1", 1000);
-            CuentaNomina cuentaNomina = new CuentaNomina("Sofi", "A00000", "Calle Ejeplo 1", 1000, "CCSS", "Microsft", 10);
+            CuentaNomina cuentaNomina = new CuentaNomina("John", "B11111", "Calle Ejemplo 2", 1000, "CCSS", "Microsft", 10);
 
             Imprimir imprimir = new Imprimir();
             imprimir.imprimirCualquierCuenta(cuentaAhorro);

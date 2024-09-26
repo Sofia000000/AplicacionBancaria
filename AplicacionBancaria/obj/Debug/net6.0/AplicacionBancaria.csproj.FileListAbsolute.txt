@@ -1,0 +1,14 @@
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\bin\Debug\net6.0\AplicacionBancaria.exe
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\bin\Debug\net6.0\AplicacionBancaria.deps.json
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\bin\Debug\net6.0\AplicacionBancaria.runtimeconfig.json
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\bin\Debug\net6.0\AplicacionBancaria.dll
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\bin\Debug\net6.0\AplicacionBancaria.pdb
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\AplicacionBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\AplicacionBancaria.AssemblyInfoInputs.cache
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\AplicacionBancaria.AssemblyInfo.cs
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\AplicacionBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\AplicacionBancaria.dll
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\refint\AplicacionBancaria.dll
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\AplicacionBancaria.pdb
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\AplicacionBancaria.genruntimeconfig.cache
+C:\Users\Master Ryzen\source\repos\AplicacionBancaria\AplicacionBancaria\obj\Debug\net6.0\ref\AplicacionBancaria.dll

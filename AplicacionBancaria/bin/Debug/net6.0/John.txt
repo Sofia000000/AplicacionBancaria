@@ -1,0 +1,4 @@
+Nombre: John 
+DNI: B11111 
+Direccion: Calle Ejemplo 2 
+Fecha de nacimiento: 01/01/0001 0:00:00

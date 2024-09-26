@@ -21,7 +21,7 @@ namespace AplicacionBancaria.App.negocio
 
             Console.WriteLine(datosCliente);
 
-            File.WriteAllText($"c;\\temp\\{cliente.nombre}.txt", datosCliente);
+            File.WriteAllText($".\\{cliente.nombre}.txt", datosCliente);
         }
     }
 }

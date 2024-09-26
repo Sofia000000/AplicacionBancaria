@@ -38,5 +38,11 @@ namespace AplicacionBancaria.App.modelo
         {
             return base.Equals(obj);
         }
+
+
+        public int CompareTo(Cliente other)
+        {
+            return nombre.CompareTo(other.nombre); // Ordena por precio ascendente
+        }
     }
 }
